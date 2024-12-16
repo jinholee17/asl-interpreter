@@ -1,0 +1,20 @@
+# LaTeX files
+**/*.bbl
+**/*.blg
+**/*.brf
+**/*.aux
+**/*.fdb_latexmk
+**/*.fls
+**/*.out
+**/*.synctex.gz
+**/*.log
+
+**/.DS_Store/
+.vscode
+.idea
+.DS_Store
+__pycache__/
+cnn/dataset/
+dataset/
+data/
+results_webpage/thumbnails/
